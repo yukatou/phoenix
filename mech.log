@@ -1,0 +1,183 @@
+# Logfile created on 2012-05-06 22:44:34 +0900 by logger.rb/25413
+I, [2012-05-06T22:44:34.100528 #813]  INFO -- : Net::HTTP::Get: /index.php?module=Support&action=LoginForm
+D, [2012-05-06T22:44:34.100601 #813] DEBUG -- : request-header: accept => */*
+D, [2012-05-06T22:44:34.100640 #813] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-05-06T22:44:34.100681 #813] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-05-06T22:44:34.100747 #813] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-05-06T22:44:34.100788 #813] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-05-06T22:44:34.100848 #813] DEBUG -- : request-header: host => s.dartsjapan.jp
+I, [2012-05-06T22:44:34.440531 #813]  INFO -- : status: Net::HTTPFound 1.1 302 Found
+D, [2012-05-06T22:44:34.440718 #813] DEBUG -- : response-header: date => Sun, 06 May 2012 13:44:34 GMT
+D, [2012-05-06T22:44:34.440784 #813] DEBUG -- : response-header: server => Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8e-fips-rhel5 PHP/4.3.11
+D, [2012-05-06T22:44:34.440825 #813] DEBUG -- : response-header: x-powered-by => PHP/4.3.11
+D, [2012-05-06T22:44:34.440942 #813] DEBUG -- : response-header: set-cookie => PHPSESSID=48df93a83de07079f4486699217fc80e; path=/, CHECK=check; expires=Sun, 06 May 2012 13:46:34 GMT
+D, [2012-05-06T22:44:34.440998 #813] DEBUG -- : response-header: expires => Thu, 19 Nov 1981 08:52:00 GMT
+D, [2012-05-06T22:44:34.441049 #813] DEBUG -- : response-header: cache-control => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+D, [2012-05-06T22:44:34.441083 #813] DEBUG -- : response-header: pragma => no-cache
+D, [2012-05-06T22:44:34.441115 #813] DEBUG -- : response-header: location => /index.php?module=Support&action=LoginForm&act=check&mID=&PHPSESSID=48df93a83de07079f4486699217fc80e
+D, [2012-05-06T22:44:34.441166 #813] DEBUG -- : response-header: content-length => 0
+D, [2012-05-06T22:44:34.441221 #813] DEBUG -- : response-header: connection => close
+D, [2012-05-06T22:44:34.441275 #813] DEBUG -- : response-header: content-type => text/html
+D, [2012-05-06T22:44:34.441505 #813] DEBUG -- : Read 0 bytes (0 total)
+D, [2012-05-06T22:44:34.442629 #813] DEBUG -- : saved cookie: PHPSESSID=48df93a83de07079f4486699217fc80e
+D, [2012-05-06T22:44:34.444072 #813] DEBUG -- : saved cookie: CHECK=check
+I, [2012-05-06T22:44:34.444161 #813]  INFO -- : follow redirect to: /index.php?module=Support&action=LoginForm&act=check&mID=&PHPSESSID=48df93a83de07079f4486699217fc80e
+I, [2012-05-06T22:44:34.447687 #813]  INFO -- : Net::HTTP::Get: /index.php?module=Support&action=LoginForm&act=check&mID=&PHPSESSID=48df93a83de07079f4486699217fc80e
+D, [2012-05-06T22:44:34.447786 #813] DEBUG -- : request-header: accept => */*
+D, [2012-05-06T22:44:34.447842 #813] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-05-06T22:44:34.447940 #813] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-05-06T22:44:34.447979 #813] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-05-06T22:44:34.448012 #813] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-05-06T22:44:34.448043 #813] DEBUG -- : request-header: cookie => PHPSESSID=48df93a83de07079f4486699217fc80e; CHECK=check
+D, [2012-05-06T22:44:34.448074 #813] DEBUG -- : request-header: host => s.dartsjapan.jp
+I, [2012-05-06T22:44:34.866306 #813]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2012-05-06T22:44:34.866475 #813] DEBUG -- : response-header: date => Sun, 06 May 2012 13:44:34 GMT
+D, [2012-05-06T22:44:34.866538 #813] DEBUG -- : response-header: server => Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8e-fips-rhel5 PHP/4.3.11
+D, [2012-05-06T22:44:34.866600 #813] DEBUG -- : response-header: x-powered-by => PHP/4.3.11
+D, [2012-05-06T22:44:34.866670 #813] DEBUG -- : response-header: expires => Thu, 19 Nov 1981 08:52:00 GMT
+D, [2012-05-06T22:44:34.866750 #813] DEBUG -- : response-header: cache-control => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+D, [2012-05-06T22:44:34.866821 #813] DEBUG -- : response-header: pragma => no-cache
+D, [2012-05-06T22:44:34.866876 #813] DEBUG -- : response-header: content-length => 4762
+D, [2012-05-06T22:44:34.866970 #813] DEBUG -- : response-header: connection => close
+D, [2012-05-06T22:44:34.867027 #813] DEBUG -- : response-header: content-type => text/html
+D, [2012-05-06T22:44:34.867184 #813] DEBUG -- : Read 4762 bytes (4762 total)
+I, [2012-05-06T22:44:34.871783 #813]  INFO -- : form encoding: Shift_JIS
+D, [2012-05-06T22:44:34.873063 #813] DEBUG -- : query: "module=Support&action=LoginCheck&mode=&ck=&login_id=0255854426756610&login_pw=0226"
+I, [2012-05-06T22:44:34.877339 #813]  INFO -- : Net::HTTP::Post: /index.php
+D, [2012-05-06T22:44:34.877391 #813] DEBUG -- : request-header: accept => */*
+D, [2012-05-06T22:44:34.877427 #813] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-05-06T22:44:34.877460 #813] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-05-06T22:44:34.877492 #813] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-05-06T22:44:34.877523 #813] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-05-06T22:44:34.877554 #813] DEBUG -- : request-header: cookie => PHPSESSID=48df93a83de07079f4486699217fc80e; CHECK=check
+D, [2012-05-06T22:44:34.877593 #813] DEBUG -- : request-header: host => s.dartsjapan.jp
+D, [2012-05-06T22:44:34.877659 #813] DEBUG -- : request-header: referer => http://s.dartsjapan.jp/index.php?module=Support&action=LoginForm&act=check&mID=&PHPSESSID=48df93a83de07079f4486699217fc80e
+D, [2012-05-06T22:44:34.877696 #813] DEBUG -- : request-header: content-type => application/x-www-form-urlencoded
+D, [2012-05-06T22:44:34.877727 #813] DEBUG -- : request-header: content-length => 82
+I, [2012-05-06T22:44:35.200759 #813]  INFO -- : status: Net::HTTPFound 1.1 302 Found
+D, [2012-05-06T22:44:35.200961 #813] DEBUG -- : response-header: date => Sun, 06 May 2012 13:44:35 GMT
+D, [2012-05-06T22:44:35.201050 #813] DEBUG -- : response-header: server => Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8e-fips-rhel5 PHP/4.3.11
+D, [2012-05-06T22:44:35.201087 #813] DEBUG -- : response-header: x-powered-by => PHP/4.3.11
+D, [2012-05-06T22:44:35.201120 #813] DEBUG -- : response-header: expires => Thu, 19 Nov 1981 08:52:00 GMT
+D, [2012-05-06T22:44:35.201152 #813] DEBUG -- : response-header: cache-control => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+D, [2012-05-06T22:44:35.201212 #813] DEBUG -- : response-header: pragma => no-cache
+D, [2012-05-06T22:44:35.201281 #813] DEBUG -- : response-header: location => http://s.dartsjapan.jp/index.php?module=TopPage&action=Top&id=0255854426756610&pw=7b592c31719e4facbf89aa0d4d839d88
+D, [2012-05-06T22:44:35.201351 #813] DEBUG -- : response-header: content-length => 0
+D, [2012-05-06T22:44:35.201409 #813] DEBUG -- : response-header: connection => close
+D, [2012-05-06T22:44:35.201456 #813] DEBUG -- : response-header: content-type => text/html
+D, [2012-05-06T22:44:35.201603 #813] DEBUG -- : Read 0 bytes (0 total)
+I, [2012-05-06T22:44:35.202260 #813]  INFO -- : follow redirect to: http://s.dartsjapan.jp/index.php?module=TopPage&action=Top&id=0255854426756610&pw=7b592c31719e4facbf89aa0d4d839d88
+I, [2012-05-06T22:44:35.205378 #813]  INFO -- : Net::HTTP::Get: /index.php?module=TopPage&action=Top&id=0255854426756610&pw=7b592c31719e4facbf89aa0d4d839d88
+D, [2012-05-06T22:44:35.205432 #813] DEBUG -- : request-header: accept => */*
+D, [2012-05-06T22:44:35.205486 #813] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-05-06T22:44:35.205562 #813] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-05-06T22:44:35.205656 #813] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-05-06T22:44:35.205728 #813] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-05-06T22:44:35.205785 #813] DEBUG -- : request-header: cookie => PHPSESSID=48df93a83de07079f4486699217fc80e; CHECK=check
+D, [2012-05-06T22:44:35.205849 #813] DEBUG -- : request-header: host => s.dartsjapan.jp
+D, [2012-05-06T22:44:35.205954 #813] DEBUG -- : request-header: referer => http://s.dartsjapan.jp/index.php?module=Support&action=LoginForm&act=check&mID=&PHPSESSID=48df93a83de07079f4486699217fc80e
+I, [2012-05-06T22:44:35.563824 #813]  INFO -- : status: Net::HTTPFound 1.1 302 Found
+D, [2012-05-06T22:44:35.564283 #813] DEBUG -- : response-header: date => Sun, 06 May 2012 13:44:35 GMT
+D, [2012-05-06T22:44:35.564359 #813] DEBUG -- : response-header: server => Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8e-fips-rhel5 PHP/4.3.11
+D, [2012-05-06T22:44:35.564402 #813] DEBUG -- : response-header: x-powered-by => PHP/4.3.11
+D, [2012-05-06T22:44:35.564475 #813] DEBUG -- : response-header: expires => Thu, 19 Nov 1981 08:52:00 GMT
+D, [2012-05-06T22:44:35.564735 #813] DEBUG -- : response-header: cache-control => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+D, [2012-05-06T22:44:35.564780 #813] DEBUG -- : response-header: pragma => no-cache
+D, [2012-05-06T22:44:35.565017 #813] DEBUG -- : response-header: location => http://s.dartsjapan.jp/index.php
+D, [2012-05-06T22:44:35.565088 #813] DEBUG -- : response-header: content-length => 0
+D, [2012-05-06T22:44:35.565219 #813] DEBUG -- : response-header: connection => close
+D, [2012-05-06T22:44:35.565301 #813] DEBUG -- : response-header: content-type => text/html
+D, [2012-05-06T22:44:35.565458 #813] DEBUG -- : Read 0 bytes (0 total)
+I, [2012-05-06T22:44:35.566233 #813]  INFO -- : follow redirect to: http://s.dartsjapan.jp/index.php
+I, [2012-05-06T22:44:35.569975 #813]  INFO -- : Net::HTTP::Get: /index.php
+D, [2012-05-06T22:44:35.570057 #813] DEBUG -- : request-header: accept => */*
+D, [2012-05-06T22:44:35.570105 #813] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-05-06T22:44:35.570233 #813] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-05-06T22:44:35.570292 #813] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-05-06T22:44:35.570327 #813] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-05-06T22:44:35.570359 #813] DEBUG -- : request-header: cookie => PHPSESSID=48df93a83de07079f4486699217fc80e; CHECK=check
+D, [2012-05-06T22:44:35.570417 #813] DEBUG -- : request-header: host => s.dartsjapan.jp
+D, [2012-05-06T22:44:35.570505 #813] DEBUG -- : request-header: referer => http://s.dartsjapan.jp/index.php?module=Support&action=LoginForm&act=check&mID=&PHPSESSID=48df93a83de07079f4486699217fc80e
+I, [2012-05-06T22:44:35.964858 #813]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2012-05-06T22:44:35.965076 #813] DEBUG -- : response-header: date => Sun, 06 May 2012 13:44:35 GMT
+D, [2012-05-06T22:44:35.965161 #813] DEBUG -- : response-header: server => Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8e-fips-rhel5 PHP/4.3.11
+D, [2012-05-06T22:44:35.965221 #813] DEBUG -- : response-header: x-powered-by => PHP/4.3.11
+D, [2012-05-06T22:44:35.965277 #813] DEBUG -- : response-header: expires => Thu, 19 Nov 1981 08:52:00 GMT
+D, [2012-05-06T22:44:35.965330 #813] DEBUG -- : response-header: cache-control => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+D, [2012-05-06T22:44:35.965416 #813] DEBUG -- : response-header: pragma => no-cache
+D, [2012-05-06T22:44:35.965487 #813] DEBUG -- : response-header: connection => close
+D, [2012-05-06T22:44:35.965545 #813] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2012-05-06T22:44:35.965599 #813] DEBUG -- : response-header: content-type => text/html
+D, [2012-05-06T22:44:35.965801 #813] DEBUG -- : Read 3967 bytes (3967 total)
+D, [2012-05-06T22:44:36.075291 #813] DEBUG -- : Read 8688 bytes (12655 total)
+D, [2012-05-06T22:44:36.185684 #813] DEBUG -- : Read 2896 bytes (15551 total)
+D, [2012-05-06T22:44:36.185844 #813] DEBUG -- : Read 2324 bytes (17875 total)
+I, [2012-05-06T23:15:40.070759 #3675]  INFO -- : Net::HTTP::Get: /index.php?module=Support&action=LoginNew
+D, [2012-05-06T23:15:40.070913 #3675] DEBUG -- : request-header: accept => */*
+D, [2012-05-06T23:15:40.070983 #3675] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-05-06T23:15:40.071024 #3675] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-05-06T23:15:40.071057 #3675] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-05-06T23:15:40.071105 #3675] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-05-06T23:15:40.071163 #3675] DEBUG -- : request-header: host => s.dartsjapan.jp
+I, [2012-05-06T23:15:40.495738 #3675]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2012-05-06T23:15:40.495902 #3675] DEBUG -- : response-header: date => Sun, 06 May 2012 14:15:40 GMT
+D, [2012-05-06T23:15:40.496010 #3675] DEBUG -- : response-header: server => Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8e-fips-rhel5 PHP/4.3.11
+D, [2012-05-06T23:15:40.496078 #3675] DEBUG -- : response-header: x-powered-by => PHP/4.3.11
+D, [2012-05-06T23:15:40.496133 #3675] DEBUG -- : response-header: set-cookie => PHPSESSID=f3d4975b9d06d2b53d0942ca0ba01457; path=/
+D, [2012-05-06T23:15:40.496196 #3675] DEBUG -- : response-header: expires => Thu, 19 Nov 1981 08:52:00 GMT
+D, [2012-05-06T23:15:40.496236 #3675] DEBUG -- : response-header: cache-control => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+D, [2012-05-06T23:15:40.496278 #3675] DEBUG -- : response-header: pragma => no-cache
+D, [2012-05-06T23:15:40.496344 #3675] DEBUG -- : response-header: content-length => 6084
+D, [2012-05-06T23:15:40.496387 #3675] DEBUG -- : response-header: connection => close
+D, [2012-05-06T23:15:40.496485 #3675] DEBUG -- : response-header: content-type => text/html
+D, [2012-05-06T23:15:40.496701 #3675] DEBUG -- : Read 2467 bytes (2467 total)
+D, [2012-05-06T23:15:40.596804 #3675] DEBUG -- : Read 3617 bytes (6084 total)
+D, [2012-05-06T23:15:40.598826 #3675] DEBUG -- : saved cookie: PHPSESSID=f3d4975b9d06d2b53d0942ca0ba01457
+I, [2012-05-06T23:15:40.602453 #3675]  INFO -- : form encoding: Shift_JIS
+D, [2012-05-06T23:15:40.603403 #3675] DEBUG -- : query: "PHPSESSID=f3d4975b9d06d2b53d0942ca0ba01457&module=Support&action=LoginNewCheck&mode=&login_id=0255854426756610&login_pw=0226"
+I, [2012-05-06T23:15:40.605332 #3675]  INFO -- : Net::HTTP::Post: /index.php
+D, [2012-05-06T23:15:40.605387 #3675] DEBUG -- : request-header: accept => */*
+D, [2012-05-06T23:15:40.605488 #3675] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-05-06T23:15:40.605530 #3675] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-05-06T23:15:40.605564 #3675] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-05-06T23:15:40.605596 #3675] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-05-06T23:15:40.605651 #3675] DEBUG -- : request-header: cookie => PHPSESSID=f3d4975b9d06d2b53d0942ca0ba01457
+D, [2012-05-06T23:15:40.605718 #3675] DEBUG -- : request-header: host => s.dartsjapan.jp
+D, [2012-05-06T23:15:40.605800 #3675] DEBUG -- : request-header: referer => http://s.dartsjapan.jp/index.php?module=Support&action=LoginNew
+D, [2012-05-06T23:15:40.605843 #3675] DEBUG -- : request-header: content-type => application/x-www-form-urlencoded
+D, [2012-05-06T23:15:40.605924 #3675] DEBUG -- : request-header: content-length => 124
+I, [2012-05-06T23:15:41.003151 #3675]  INFO -- : status: Net::HTTPFound 1.1 302 Found
+D, [2012-05-06T23:15:41.003314 #3675] DEBUG -- : response-header: date => Sun, 06 May 2012 14:15:40 GMT
+D, [2012-05-06T23:15:41.003399 #3675] DEBUG -- : response-header: server => Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8e-fips-rhel5 PHP/4.3.11
+D, [2012-05-06T23:15:41.003448 #3675] DEBUG -- : response-header: x-powered-by => PHP/4.3.11
+D, [2012-05-06T23:15:41.003519 #3675] DEBUG -- : response-header: expires => Thu, 19 Nov 1981 08:52:00 GMT
+D, [2012-05-06T23:15:41.003578 #3675] DEBUG -- : response-header: cache-control => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+D, [2012-05-06T23:15:41.003634 #3675] DEBUG -- : response-header: pragma => no-cache
+D, [2012-05-06T23:15:41.003682 #3675] DEBUG -- : response-header: location => http://s.dartsjapan.jp/index.php?module=TopPage&action=Top&
+D, [2012-05-06T23:15:41.003746 #3675] DEBUG -- : response-header: content-length => 0
+D, [2012-05-06T23:15:41.003805 #3675] DEBUG -- : response-header: connection => close
+D, [2012-05-06T23:15:41.003872 #3675] DEBUG -- : response-header: content-type => text/html
+D, [2012-05-06T23:15:41.004033 #3675] DEBUG -- : Read 0 bytes (0 total)
+I, [2012-05-06T23:15:41.004597 #3675]  INFO -- : follow redirect to: http://s.dartsjapan.jp/index.php?module=TopPage&action=Top&
+I, [2012-05-06T23:15:41.005344 #3675]  INFO -- : Net::HTTP::Get: /index.php?module=TopPage&action=Top&
+D, [2012-05-06T23:15:41.005409 #3675] DEBUG -- : request-header: accept => */*
+D, [2012-05-06T23:15:41.005459 #3675] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-05-06T23:15:41.005532 #3675] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-05-06T23:15:41.005583 #3675] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-05-06T23:15:41.005631 #3675] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-05-06T23:15:41.005680 #3675] DEBUG -- : request-header: cookie => PHPSESSID=f3d4975b9d06d2b53d0942ca0ba01457
+D, [2012-05-06T23:15:41.005740 #3675] DEBUG -- : request-header: host => s.dartsjapan.jp
+D, [2012-05-06T23:15:41.005809 #3675] DEBUG -- : request-header: referer => http://s.dartsjapan.jp/index.php?module=Support&action=LoginNew
+I, [2012-05-06T23:15:42.600628 #3675]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2012-05-06T23:15:42.600781 #3675] DEBUG -- : response-header: date => Sun, 06 May 2012 14:15:41 GMT
+D, [2012-05-06T23:15:42.600838 #3675] DEBUG -- : response-header: server => Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8e-fips-rhel5 PHP/4.3.11
+D, [2012-05-06T23:15:42.600885 #3675] DEBUG -- : response-header: x-powered-by => PHP/4.3.11
+D, [2012-05-06T23:15:42.600946 #3675] DEBUG -- : response-header: expires => Thu, 19 Nov 1981 08:52:00 GMT
+D, [2012-05-06T23:15:42.600984 #3675] DEBUG -- : response-header: cache-control => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+D, [2012-05-06T23:15:42.601016 #3675] DEBUG -- : response-header: pragma => no-cache
+D, [2012-05-06T23:15:42.601070 #3675] DEBUG -- : response-header: connection => close
+D, [2012-05-06T23:15:42.601109 #3675] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2012-05-06T23:15:42.601141 #3675] DEBUG -- : response-header: content-type => text/html
+D, [2012-05-06T23:15:42.601302 #3675] DEBUG -- : Read 3967 bytes (3967 total)
+D, [2012-05-06T23:15:42.699500 #3675] DEBUG -- : Read 8688 bytes (12655 total)
+D, [2012-05-06T23:15:42.804218 #3675] DEBUG -- : Read 2967 bytes (15622 total)

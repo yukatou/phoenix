@@ -1,0 +1,305 @@
+
+
+<!DOCTYPE html PUBLIC "-//w3c//DTD XHTML Basic 1.0 //EN" "http://www.w3c.org/TR/xhtml-basic/xhtml-basic10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:mixi="http://mixi-platform.com/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+<meta name="format-detection" content="telephone=no" />
+<meta name="description" content="世界初オンライン対戦可能デジタルダーツマシン フェニックスのモバイルサイトです" />
+<meta name="keywords" content="ダーツ、フェニックス、DARTS、DARTSJAPAN、ダーツマシン、PHOENIX" />
+<title>会員ユーザー用TOP - フェニックスモバイルtouch</title>
+<link rel="stylesheet" href="/css/import.css" type="text/css" />
+<link rel="stylesheet" href="/css/mypage.css" type="text/css" />
+<link rel="alternate" media="handheld" href="mobile.html" />
+
+
+
+<link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png" />
+
+</head>
+<body>
+<script>window.addEventListener('load', function() {setTimeout(scrollTo, 0, 0, 1);}, false);</script>
+<a id="top"></a>
+<div id="page">
+<h2 class="pTitle">メンバー TOP</h2>
+
+
+
+
+<ul class="NewsHead">
+</ul>
+
+<div style="padding-top:6px;">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100">    <div style="padding:6px;">
+				
+				<img src="./avatarphoto1/88000/web/87067.jpg" />
+			    </div></td>
+    <td><div>
+		<span class="f-smallx">アバター名：</span>katoyan<br />
+		<span class="f-smallx">ID：</span>katoyan ♂<br />
+		</div>
+        <div style="padding-top:6px;"><a href="./index.php?module=PuchiLot&action=LotHist" class="button white medium"><img src="http://p.dartsjapan.jp/images/px/s/img/ico_gold.gif" class="icos"/> コイン手帳</a></div>
+        <div style="padding-top:6px;"><a href="./index.php?module=TopPage&action=AcountManage"  class="button white medium"><img src="http://p.dartsjapan.jp/images/px/s/img/ico_key.gif" class="icos"/> アカウント設定</a></div>
+    </td>
+  </tr>
+</table>
+<ul class="BasicList" style="margin-top:6px;">
+<li class="arrow"><a href="./index.php?module=TopPage&action=ShopRedirect&to=avatar" class="f-bold"><img class="icos" src="http://p.dartsjapan.jp/images/px/s/img/emoticons/t-shirt.gif" />
+<span class="f-bk">アバター 着替え</span></a></li>
+<li class="arrow"><a href="./index.php?module=TopPage&action=ShopRedirect&to=game" class="f-bold f-bk"><img class="icos" src="http://p.dartsjapan.jp/images/px/s/img/emoticons/game.gif" />
+<span class="f-bk">虹色プラネット</span> <span class="f-smallx f-grey">LV：</span><span class="f-bk">--</span> <span class="f-smallx f-grey">TP：</span><span class="f-bk">87</span><br />
+<!-- BANNER 虹プラ -->
+
+
+
+
+<!-- キャンペーン期間中 -->
+	    <span class="niji_top"><span style="color:#F30">GWイベント第2弾 開催中！</span><br />
+    <span style="color:#6600FF">手裏剣を集めてアイテムGET！</span></span>
+    
+    
+	
+
+
+<!-- BANNER 虹プラ-->
+</a></li>
+</ul>
+</div>
+
+
+
+
+<a id="one"></a>
+
+<div class="barOrange clearfix"><h2>課金カードリスト：クレジットカード</h2></div>
+<ul class="BasicList">
+<li class="arrow">
+<a href="./index.php?module=Member&action=ChargeInfo"><span class="f-bk f-bold">有料会員情報</span>
+<!--img src="http://p.dartsjapan.jp/images/px/s/items_pp.gif" border="0" width="7%" />:30PP 
+<img src="http://p.dartsjapan.jp/images/px/s/items_goldcoin.gif" border="0" width="7%" />:0枚
+<img src="http://p.dartsjapan.jp/images/px/s/items_silvercoin.gif" border="0" width="7%" />:0枚--></a>
+</li>
+</ul>
+<div class="sub_grey"><img class="icos" src="http://p.dartsjapan.jp/images/px/s/img/ico_accept.png" />メインカード</div>
+
+			<div class="clearfix cardlist">      
+            	
+<form action="./index.php" method="POST" name="frm" class="btn_del">
+<input type="hidden" name="module" value="TopPage" />
+<input type="hidden" name="action" value="CardDelete" />
+<input type="hidden" name="mode" value="conf" />
+<input type="checkbox" name="check_16142028064866480872" style="display:none;" checked="checked"/>
+<input type="image" src="http://p.dartsjapan.jp/images/px/s/img/icon_cl_delete.png" class="imgRight"/>
+                </form>
+           		<div class="card_info">
+									<a href="./index.php?module=MyPage&action=Top&id=0255854426756610&pw=7b592c31719e4facbf89aa0d4d839d88"><img class="imgCmn" src="http://ptest.dartsjapan.jp/images/px/s/f16.png" />アフロ田中				/AA19<br />
+                <span class="f-grey">IDナンバー: 0255-8544-2675-6610</span></a>
+              </div>
+            </div>            
+            <div class="center con">
+				  [<a href="./index.php?module=TopPage&action=CardList#mainchange">メイン変更</a>]
+            </div>
+            
+
+
+		        	<div class="sub_grey">サブカード<span class="f-small">(あと4枚登録可能)</span></div>
+				<div class="clearfix cardlist">
+		        <div class="btn_del"><a href="./index.php?module=TopPage&action=CardAddition"><img class="imgRight" src="http://p.dartsjapan.jp/images/px/s/img/icon_cl_set.png" /></a></div>
+        <div class="card_info"><span class="txt">登録されておりません</span></div>
+				</div>
+
+		<div class="clearfix cardlist">
+		        <div class="btn_del"><a href="./index.php?module=TopPage&action=CardAddition"><img class="imgRight" src="http://p.dartsjapan.jp/images/px/s/img/icon_cl_set.png" /></a></div>
+        <div class="card_info"><span class="txt">登録されておりません</span></div>
+				</div>
+
+		<div class="clearfix cardlist">
+		        <div class="btn_del"><a href="./index.php?module=TopPage&action=CardAddition"><img class="imgRight" src="http://p.dartsjapan.jp/images/px/s/img/icon_cl_set.png" /></a></div>
+        <div class="card_info"><span class="txt">登録されておりません</span></div>
+				</div>
+
+		<div class="clearfix cardlist">
+		        <div class="btn_del"><a href="./index.php?module=TopPage&action=CardAddition"><img class="imgRight" src="http://p.dartsjapan.jp/images/px/s/img/icon_cl_set.png" /></a></div>
+        <div class="card_info"><span class="txt">登録されておりません</span></div>
+				</div>
+
+
+
+
+<div class="sub_grey">リーグカード</div>
+<div class="clearfix cardlist">
+
+				<div class="btn_del"><a href="./index.php?module=TopPage&action=CardAddition"><img class="imgRight" src="http://p.dartsjapan.jp/images/px/s/img/icon_cl_set.png" /></a>
+        </div>
+        <div class="card_info"><span class="txt">登録されておりません</span></div>
+		</div>
+
+
+
+<div class="con center"><a href="./index.php?module=TopPage&action=CardList" class="button white bigrounded">カードリスト管理</a></div>
+
+
+<!-- BANNER -->
+<div style="text-align:center; padding:0.3em 0; border-top:1px solid #CCC;">
+	<a href="/index.php?module=WordPress&action=Detail&bbsNum=997"><img src="/images/px/s/img/bn/bn_akkinastyle.jpg" width="85%" /></a>
+<br /><a href="/index.php?module=WordPress&action=Detail&bbsNum=997" >アッキーナスタイル★プレゼント</a> </div>
+<!-- BANNER -->
+
+<!-- ▼おしらせ -->
+<div class="barRed clearfix">
+<h2>お知らせ</h2></div>
+
+<ul class="BasicList">
+		<li class="arrow">
+        <a href="/index.php?module=WordPress&action=Detail&bbsNum=999">PERFECT LIVE中継を見てスペシャルSTYLEをゲット！ <br />
+        <span class="date">2012/05/02 </span></a>
+		</li>
+		<li class="arrow">
+        <a href="/index.php?module=WordPress&action=Detail&bbsNum=997">期間限定！ アッキーナ ス...<br />
+        <span class="date">2012/04/27 </span></a>
+		</li>
+		<li class="arrow">
+        <a href="/index.php?module=WordPress&action=Detail&bbsNum=995">VSPHOENIX Sがさらに進化す...<br />
+        <span class="date">2012/04/24 </span></a>
+		</li>
+		<li class="arrow"><a href="/index.php?module=WordPress&action=List">過去のお知らせを見る</a></li>
+</ul>
+
+<!-- ▲お知らせ -->
+
+
+
+
+
+<!--div style="padding:0.3em 0">
+<hr style="width:100%;height:1px;margin:0;padding:0;color:#666;background:#666; border:0px solid #666;"size="1" />
+</div>
+<div style="text-align: left">
+  <table width="100%" border="0" cellspacing="0" cellpadding="3">
+    <tr>
+      <td width="16%"><img src="http://p.dartsjapan.jp/images/px/s/intro/tomo_logo.gif" alt="" width="100%" /></td>
+      <td width="84%">
+      <div style="">
+      <a href="./index.php?module=Intro&action=Top&login=1">トモダチプロジェクト</a><br />
+      <span style="font-size:xx-small">トモダチ誘ってGOLDゲット!</span>
+      </div>
+      </td>
+    </tr>
+  </table>
+</div-->
+<br />
+
+
+<!--- BANNER -->
+<div class="con">
+<ul class="boxList">
+<li class="arrow"><a href="app.php"><img src="/img/thum_app.png" alt="" width="68" height="60" class="left"/><span class="f-bold f-red">iPhone/Android フェニックスアプリ登場！</span><br />
+<span class="f-smallx f-bk">iPhone版/Android版 同時リリース!</span></a></li>
+</ul>
+</div>
+<!-- //BANNER -->
+<div class="barOrange clearfix">
+<h2>イベント・コンテンツ</h2>
+</div>
+<ul class="BasicList">
+<li class="arrow"><a href="/jump.php?site=12"><span class="f-red f-bold">INOKI-DARTS-PROJECT</span><br />
+   <span class="cap">アントニオ猪木がダーツに投魂継承! 「投魂ゲーム」をプレイしよう！</span></a></li>
+<li class="arrow"><a href="./index.php?module=TopPage&action=ShopRedirect&to=game"><span class="f-blue f-bold">虹色プラネット</span><br />
+   <span class="cap">ダーツで繋がる新感覚モバイルオンラインRPGゲーム </span></a></li>
+<li class="arrow"><a href="/index.php?module=L_Default&action=DefaultIndex" ><span class="f-blue f-bold">PHOENIX OFFICIAL LEAGUE</span><br />
+   <span class="cap">チームを作って、ダーツリーグに参加！</span></a></li>
+<li class="arrow"><a href="./index.php?module=Beginner&amp;action=Top"><span class="f-green f-bold">はじめてのダーツ</span><br />
+   <span class="cap">初心者限定！体験カードを店舗で無料配布中！</span></a></li>
+<li class="arrow"><a href="/event.php">その他のイベント</a></li>
+</ul>
+<div class="con">
+<ul class="boxList">
+<li class="arrow"><a href="/mailmaga/"><img src="http://p.dartsjapan.jp/images/px/s/img/mailmag.gif" alt="" width="100" height="60" class="left"/><span class="f-bold f-red">PHOENIX通信</span><br />
+<span class="f-smallx f-bk">フェニックスのホットな情報をお届けするメルマガ。
+登録でGOLDアイテムプレゼント！</span></a></li>
+</ul>
+</div>
+<div class="con" style="padding-top:0px">
+<ul class="boxList">
+<li class="sub_grey">DartsJapan 公式外部サイト</li>
+<li class="arrow"><a href="/jump.php?site=0"><img src="/img/ico_store.gif" alt="" width="30" height="25" class="ico"/><span class="f-bold f-bk">PHOENIX STORE</span> <span class="f-smallx f-bk">オンラインショップ</span></a></li>
+<li class="arrow"><a href="/jump.php?site=1"><img src="http://p.dartsjapan.jp/images/px/s/img/ico_twitter.gif" alt="" width="30" height="25" class="ico"/><span class="f-bold f-bk">Twitter</span> <span class="f-smallx f-bk">@dartsjapan</span></a></li>
+<li class="arrow"><a href="/jump.php?site=7"><img src="http://p.dartsjapan.jp/images/px/s/img/ico_fb.gif" alt="" width="30" height="25" class="ico"/><span class="f-bold f-bk">Facebook</span> <span class="f-smallx f-bk">DartsJapan Facebookページ</span></a></li>
+<li class="arrow"><a href="/jump.php?site=9"><img src="http://p.dartsjapan.jp/images/px/s/img/ico_youtube.gif" alt="" width="30" height="25" class="ico" /><span class="f-bold f-bk">YouTube</span> <span class="f-smallx f-bk">VSPHOENIXspecial Channel</span></a></li>
+</ul>
+</div>
+<div class="con" style="padding-top:0px">
+<ul class="boxList">
+<li class="sub_grey">ソフトダーツプロトーナメント</li>
+<li class="arrow"><a href="/jump.php?site=5"><img src="http://p.dartsjapan.jp/images/px/s/img/ico_prodarts.gif" alt="" width="30" height="25" class="ico"/><span class="f-bold f-bk">PERFECT</span> <span class="f-smallx f-bk">プロトーナメント情報</span></a></li>
+<li class="arrow"><a href="/jump.php?site=8"><img src="http://p.dartsjapan.jp/images/px/s/img/ico_tv.gif" alt="" width="30" height="25" class="ico"/><span class="f-bold f-bk">PERFECT.TV</span> <span class="f-smallx f-bk">プロの試合をLIVE中継！</span></a></li>
+</ul>
+</div>
+<div class="con" style="border-top:1px solid #CCCCCC">
+<ul class="MenuHrzn clearfix">
+<li class="tw"><a href="./index.php?module=Bbs&action=List&board=board02&login=1">トーナメント情報</a></li>
+<li class="tw"><a href="./index.php?module=Bbs&action=List&board=board03&login=1">店舗イベント情報</a></li>
+</ul>
+</div>
+
+
+
+<!--▼ビギナーズガイド -->
+<div class="barGreen clearfix">
+<h2><img src="/img/wakaba.png" width="16" height="16" class="ico" />ビギナーズガイド</h2>
+</div>
+
+<ul class="BasicList">
+<li class="arrow"><a href="./index.php?module=Beginner&amp;action=Top"><img src="http://p.dartsjapan.jp/images/px/s/img/top_img_04.gif" alt="" width="55" height="55" class="left"/><span class="f-small"><span class="f-red">オススメ!</span> <span class="f-bk">ゲームメニュー</span></span><br />
+   <span class="f-green f-bold">はじめてのダーツ</span><br />
+   <span class="caps">ゲームをプレイしながらルールが分かる！</span></a></li>
+<li class="arrow"><a href="./beginners_guide/begin.php"><img src="http://p.dartsjapan.jp/images/px/s/img/emoticons/pencil.gif" alt="" width="16" height="16" class="ico" /><span class="f-green f-bold">ダーツの遊び方</span></span></a></li>
+<li class="arrow"><a href="/beginners_guide/?id=&amp;pw="><img src="http://p.dartsjapan.jp/images/px/s/img/emoticons/pencil.gif" alt="" width="16" height="16" class="ico" /><span class="f-green f-bold">VSPHOENIXビギナーズガイド</span></a></li>
+
+<li class="arrow"><a href="/newgame/?id=&amp;pw="><img src="http://p.dartsjapan.jp/images/px/s/img/emoticons/pencil.gif" alt="" width="16" height="16" class="ico" /><span class="f-green f-bold">VSPHOENIX 搭載GAME</span></a></li>
+
+<li class="arrow"><a href="darts_bible.php"><img src="http://p.dartsjapan.jp/images/px/s/img/emoticons/pencil.gif" alt="" width="16" height="16" class="ico" /><span class="f-green f-bold">ダーツ用語辞典</span></a></li>
+<li class="arrow"><a href="game_qa_top.php?id=&pw="><img src="http://p.dartsjapan.jp/images/px/s/img/emoticons/memo.gif" alt="" width="16" height="16" class="ico" /><span class="f-green f-bold">ヘルプ</span></a></li>
+<li class="arrow"><a href="/introduction.php?id=&pw="><img src="http://p.dartsjapan.jp/images/px/s/img/emoticons/mailto.gif" alt="" width="16" height="16" class="ico" /><strong>友達にこのサイトを紹介する</strong></a></li>
+<li class="arrow"><a href="/guide_bookmark.php" style="color:#F00"><img src="http://p.dartsjapan.jp/images/px/s/img/emoticons/danger.gif" class="icos">ブックマーク登録について</a></li>
+</ul>
+
+
+
+
+
+<div class="footer">
+	<p class="f-small right"><a href="#">このページの先頭へ</a><img src="/img/ico_top.png" alt="" class="ico"/></p>
+</div>
+<div class="con" style="line-height:180%;">
+      <!--<a href="/game_qa_top.php?login=1">ヘルプ</a>｜<a href="/index.php">ログアウト</a></div>-->
+   <a href="/game_qa_top.php?login=1">ヘルプ</a>｜<a href="/index.php?module=Support&action=LogoutAcount">ログアウト</a></div>
+</div>
+
+<div class="copyright">フェニックスモバイルtouch<br />
+2012(C)HIC Inc.
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9401680-24']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script src="http://f1.nakanohito.jp/lit/index.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">try { var lb = new Vesicomyid.Bivalves("119616"); lb.init(); } catch(err) {} </script>
+</div>
+</div><!--/#page -->
+
+</body>
+</html>
