@@ -11,6 +11,7 @@ class Phoenix
 
   def initialize(cardno, passwd)# {{{
 
+    @cardno = cardno
     @agent = Mechanize.new
     @agent.user_agent_alias = 'Mac Safari'
     @agent.get(LOGIN_URL)
@@ -24,7 +25,7 @@ class Phoenix
 
   def check# {{{
     raise AuthError, "課金登録してませんか？" if /有料会員登録/u =~ @agent.page.title.toutf8
-    @agent.page.link_with(:href => /module=MyPage/).click
+    @agent.page.link_with(:href => /id=#{@cardno}/).click
   end # }}}
 
   def getCardname# {{{
